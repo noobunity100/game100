@@ -1,5 +1,5 @@
 function sayAlertAgain() {
 	alert("Honey Bunny");
 }
-function testing(){
+function testing2(){
 }
